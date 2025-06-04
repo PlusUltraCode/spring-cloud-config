@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864000000
+  secret: my_token_default
+
+gateway:
+  ip: 172.16.108.133
